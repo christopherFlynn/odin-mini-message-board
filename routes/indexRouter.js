@@ -1,6 +1,5 @@
 // routes/authorRouter.js
 const { Router } = require("express");
-const { getMessages } = require("../controllers/indexController");
 
 const indexRouter = Router();
 
